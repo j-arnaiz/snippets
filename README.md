@@ -1,4 +1,1 @@
-snippets
-========
-
-snippets for vim snipmate plugin
+Snippets for vim snipmate (neosnippets) plugin

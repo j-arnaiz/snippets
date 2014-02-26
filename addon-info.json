@@ -1,0 +1,9 @@
+{
+  "name" : "j-arnaiz snippets",
+  "author" : "community",
+  "maintainer" : "j-arnaiz",
+  "repository" : {"type": "git", "url": "git://github.com/j-arnaiz/snippets.git"},
+  "dependencies" : {
+  },
+  "description" : "Fork of snippets honza/vim-snippets adapted to my way of use them"
+}
